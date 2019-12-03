@@ -3,6 +3,7 @@ h1 {
     color: #fff;
     height: 100px;
     line-height: 100px;
+    text-align: center;
 }
 
 label {
@@ -14,10 +15,6 @@ label {
 
 label:hover {
     background-color: #E1F5FE;
-}
-
-input[type=checkbox] {
-    margin: 0 10px;
 }
 
 a {
