@@ -46,7 +46,9 @@ input {
     border: solid 1px #4FC3F7;
     padding: 0 10px;
 }
-
+input[type=checkbox] { 
+    margin: 10px; 
+}
 input[type=button] {
     /* margin: 10px 0; */
     font-weight: bold;
